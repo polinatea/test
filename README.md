@@ -1,1 +1,1 @@
-prog that give summa of 2 numbers
+prog that give summa of 2 numbers once told me
