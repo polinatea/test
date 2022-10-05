@@ -1,7 +1,7 @@
-prog that give summa of 2 numbers somebody once told me
+# prog that give summa of 2 numbers somebody once told me
 
-Made by: Efimova Darya and Chainikova Polina
+Made by: _Efimova Darya_ and _Chainikova Polina_
 
-#Petrozavodsk
+Petrozavodsk
 
 2022
